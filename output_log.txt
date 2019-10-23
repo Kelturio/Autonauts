@@ -1,0 +1,170 @@
+Initialize engine version: 2018.4.9f1 (ca372476eaba)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7700 Series (ID=0x683d)
+    Vendor:   
+    VRAM:     1001 MB
+    Driver:   22.19.662.4
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.173 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.994446 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.341159 ms
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 7718.
+Total: 9.511840 ms (FindLiveObjects: 1.236986 ms CreateObjectMapping: 0.260229 ms MarkObjects: 7.719920 ms  DeleteObjects: 0.293807 ms)
+
+Loading Input Manager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Searching for compatible XInput library...
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/xinput1_4
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library D:/Steam/steamapps/common/Autonauts/Autonauts_Data/Mono/libxinput1_4.dll
+Found Xinput1_3.dll.
+CurrentScreen 1920 1200 True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b08 -> priority: 1 
+WARNING: Shader Unsupported: 'Pinwheel/StandardOccludedHighlight' - All passes removed
+*** No texture map *** model : Models/Folk/Folk  Mesh : Body Submesh : 0 material : Default-Material
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** No texture map *** model : Models/Tools/ToolWateringCan  Mesh : Water Submesh : 0 material : ToolWateringCan
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** No texture map *** model : Models/Other/PotClay  Mesh : Dirt Submesh : 0 material : Default-Material
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** No texture map *** model : Models/Folk/Folk2  Mesh : Body Submesh : 0 material : Default-Material
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** No texture map *** model : Models/Folk/Folk3  Mesh : Body Submesh : 0 material : Default-Material
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** Shared vertices between materials *** Model=Models/Buildings/Converters/WorkbenchMk2 Mesh=Bench
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** Shared vertices between materials *** Model=Models/Animals/AnimalCow Mesh=Body
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** Shared vertices between materials *** Model=Models/Clothes/Hats/HatLumberjack Mesh=HatColonist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Searinox
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.139092 ms
+
+Unloading 9200 unused Assets to reduce memory usage. Loaded Objects now: 14986.
+Total: 110.426029 ms (FindLiveObjects: 3.328110 ms CreateObjectMapping: 2.485065 ms MarkObjects: 36.094446 ms  DeleteObjects: 68.517509 ms)
+
+RequestStats
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Seed = 838099552
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** Done Generating ***
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.511147 ms
+
+Unloading 1891 unused Assets to reduce memory usage. Loaded Objects now: 15069.
+Total: 101.496105 ms (FindLiveObjects: 2.416110 ms CreateObjectMapping: 1.207305 ms MarkObjects: 91.100147 ms  DeleteObjects: 6.771943 ms)
+
+Couldn't find variable Sign2.Range
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.024487 ms
+
+Unloading 8869 unused Assets to reduce memory usage. Loaded Objects now: 15670.
+Total: 589.371335 ms (FindLiveObjects: 7.057955 ms CreateObjectMapping: 2.196954 ms MarkObjects: 557.001637 ms  DeleteObjects: 23.113889 ms)
+
+Seed = 2080479552
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+*** Done Generating ***
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutting Down
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
