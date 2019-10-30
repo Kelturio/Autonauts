@@ -7,16 +7,16 @@ Direct3D:
     VRAM:     1001 MB
     Driver:   22.19.662.4
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.173 seconds
+- Completed reload, in  0.161 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.994446 ms
+UnloadTime: 0.971661 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.341159 ms
+UnloadTime: 2.345357 ms
 
-Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 7718.
-Total: 9.511840 ms (FindLiveObjects: 1.236986 ms CreateObjectMapping: 0.260229 ms MarkObjects: 7.719920 ms  DeleteObjects: 0.293807 ms)
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 7723.
+Total: 7.353561 ms (FindLiveObjects: 1.177025 ms CreateObjectMapping: 0.258730 ms MarkObjects: 5.639888 ms  DeleteObjects: 0.277317 ms)
 
 Loading Input Manager
  
@@ -56,7 +56,7 @@ CurrentScreen 1920 1200 True
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2b08 -> priority: 1 
+  Thread -> id: 4a18 -> priority: 1 
 WARNING: Shader Unsupported: 'Pinwheel/StandardOccludedHighlight' - All passes removed
 *** No texture map *** model : Models/Folk/Folk  Mesh : Body Submesh : 0 material : Default-Material
  
@@ -95,16 +95,16 @@ Searinox
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.139092 ms
+UnloadTime: 2.068938 ms
 
-Unloading 9200 unused Assets to reduce memory usage. Loaded Objects now: 14986.
-Total: 110.426029 ms (FindLiveObjects: 3.328110 ms CreateObjectMapping: 2.485065 ms MarkObjects: 36.094446 ms  DeleteObjects: 68.517509 ms)
+Unloading 9207 unused Assets to reduce memory usage. Loaded Objects now: 14998.
+Total: 84.665781 ms (FindLiveObjects: 2.891597 ms CreateObjectMapping: 1.822201 ms MarkObjects: 30.908459 ms  DeleteObjects: 49.042025 ms)
 
 RequestStats
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
-Seed = 838099552
+Seed = 2095519488
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
@@ -121,12 +121,62 @@ Shutdown Done
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.511147 ms
+UnloadTime: 2.402019 ms
 
-Unloading 1891 unused Assets to reduce memory usage. Loaded Objects now: 15069.
-Total: 101.496105 ms (FindLiveObjects: 2.416110 ms CreateObjectMapping: 1.207305 ms MarkObjects: 91.100147 ms  DeleteObjects: 6.771943 ms)
+Unloading 1894 unused Assets to reduce memory usage. Loaded Objects now: 15093.
+Total: 92.530506 ms (FindLiveObjects: 2.441293 ms CreateObjectMapping: 0.947377 ms MarkObjects: 84.687967 ms  DeleteObjects: 4.452970 ms)
 
-Couldn't find variable Sign2.Range
+T: 74,38425 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.410098 ms
+
+Unloading 7879 unused Assets to reduce memory usage. Loaded Objects now: 15269.
+Total: 205.409220 ms (FindLiveObjects: 3.479210 ms CreateObjectMapping: 1.673798 ms MarkObjects: 188.364837 ms  DeleteObjects: 11.890475 ms)
+
+T: 94,1784 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 95,52448 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 95,52448 - MasterAudio Refilling Variation pool: UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 97,6004 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 98,98094 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 102,7211 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 102,7211 - MasterAudio Refilling Variation pool: UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 105,0855 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 122,5219 - MasterAudio Cueing child 1 of UITileSelected
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
@@ -139,20 +189,32 @@ Shutdown Done
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 12.024487 ms
+UnloadTime: 4.081514 ms
 
-Unloading 8869 unused Assets to reduce memory usage. Loaded Objects now: 15670.
-Total: 589.371335 ms (FindLiveObjects: 7.057955 ms CreateObjectMapping: 2.196954 ms MarkObjects: 557.001637 ms  DeleteObjects: 23.113889 ms)
+Unloading 7671 unused Assets to reduce memory usage. Loaded Objects now: 15272.
+Total: 214.445873 ms (FindLiveObjects: 3.640204 ms CreateObjectMapping: 1.593152 ms MarkObjects: 195.855408 ms  DeleteObjects: 13.356510 ms)
 
-Seed = 2080479552
+T: 146,013 - MasterAudio Cueing child 2 of UITileSelected
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
-*** Done Generating ***
+T: 146,013 - MasterAudio Refilling Variation pool: UITileSelected
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
-Shutting Down
+T: 153,7867 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 158,4485 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 201,5286 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 201,5286 - MasterAudio Refilling Variation pool: UITileSelected
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
@@ -164,7 +226,301 @@ Shutdown Done
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
 
-Done
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.227218 ms
+
+Unloading 7955 unused Assets to reduce memory usage. Loaded Objects now: 15270.
+Total: 214.255798 ms (FindLiveObjects: 3.548765 ms CreateObjectMapping: 1.624931 ms MarkObjects: 193.851526 ms  DeleteObjects: 15.229378 ms)
+
+T: 215,4797 - MasterAudio Cueing child 2 of UITileSelected
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 222,2637 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 250,4287 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 250,4287 - MasterAudio Refilling Variation pool: UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.798500 ms
+
+Unloading 7637 unused Assets to reduce memory usage. Loaded Objects now: 15293.
+Total: 204.525402 ms (FindLiveObjects: 3.490003 ms CreateObjectMapping: 1.592252 ms MarkObjects: 188.662241 ms  DeleteObjects: 10.780305 ms)
+
+T: 268,8397 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 276,9758 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 322,4936 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 322,4936 - MasterAudio Refilling Variation pool: UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.949901 ms
+
+Unloading 7652 unused Assets to reduce memory usage. Loaded Objects now: 15296.
+Total: 214.385313 ms (FindLiveObjects: 3.520583 ms CreateObjectMapping: 1.621633 ms MarkObjects: 193.453388 ms  DeleteObjects: 15.789109 ms)
+
+T: 339,1403 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 356,4603 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.857262 ms
+
+Unloading 7658 unused Assets to reduce memory usage. Loaded Objects now: 15298.
+Total: 207.932660 ms (FindLiveObjects: 3.496599 ms CreateObjectMapping: 1.574864 ms MarkObjects: 189.416245 ms  DeleteObjects: 13.444052 ms)
+
+T: 371,3541 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 371,3541 - MasterAudio Refilling Variation pool: UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 375,1062 - MasterAudio Cueing child 1 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 411,3385 - MasterAudio Cueing child 0 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Shutdown Done
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.717096 ms
+
+Unloading 7656 unused Assets to reduce memory usage. Loaded Objects now: 15299.
+Total: 210.848840 ms (FindLiveObjects: 3.612323 ms CreateObjectMapping: 1.715171 ms MarkObjects: 189.442928 ms  DeleteObjects: 16.078119 ms)
+
+T: 420,7336 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 420,7336 - MasterAudio Refilling Variation pool: UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 427,6889 - MasterAudio Cueing child 2 of UITileSelected
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 388)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename:  Line: 390)
 
